@@ -24,18 +24,21 @@ public class MilleniumFalcon implements HiperJump, Spaceship {
         return false;
     }
 
-        @Override
-        public double speedOfSpacheship () {
-            return 2 * this.experience;
-        }
+    @Override
+    public double speedOfSpacheship () {
+        return 2 * this.experience;
+    }
 
-        public double getExperience () {
-            return experience;
-        }
+    public double getExperience () {
+        return experience;
+    }
 
-        public void setExperience ( double experience){
-            this.experience = experience;
+    public void setExperience ( double experience){
+        if (experience < 0) {
+            throw new IllegalArgumentException("experience cannot be negative");
         }
+        this.experience = experience;
+    }
 
     @Override
     public String toString() {

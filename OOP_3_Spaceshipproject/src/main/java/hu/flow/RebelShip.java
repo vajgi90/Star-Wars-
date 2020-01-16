@@ -6,6 +6,9 @@ public abstract class RebelShip implements Spaceship {
     private boolean goneFail;
 
     public RebelShip(double speed, boolean goneFail) {
+        if (speed < 0) {
+            throw new IllegalArgumentException("speed cannot be negative");
+        }
         this.speed = speed;
         this.goneFail = goneFail;
     }
