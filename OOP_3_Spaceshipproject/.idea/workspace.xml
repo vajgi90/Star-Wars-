@@ -1,11 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4f63f87-f92b-4566-ad21-6d04fef9ca39" name="Default Changelist" comment="" />
+    <list default="true" id="a4f63f87-f92b-4566-ad21-6d04fef9ca39" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Star-Wars-.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MilleniumFalconTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestRebelShip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/XWingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_3_Spaceshipproject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_3_Spaceshipproject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hu/flow/HiperJump.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hu/flow/HiperJump.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hu/flow/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hu/flow/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hu/flow/MilleniumFalcon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hu/flow/MilleniumFalcon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hu/flow/RebelShip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hu/flow/RebelShip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hu/flow/Spaceship.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hu/flow/Spaceship.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hu/flow/StarWars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hu/flow/StarWars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hu/flow/XWing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hu/flow/XWing.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="311" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -15,29 +42,76 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1UZhF180CM4XWMYyr3441mxLEuM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="hu.flow.Main" />
+  <component name="RunManager" selected="JUnit.All in OOP_3_Spaceshipproject">
+    <configuration name="All in OOP_3_Spaceshipproject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="OOP_3_Spaceshipproject" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRebelShip.testIsSpeedUp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OOP_3_Spaceshipproject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestRebelShip" />
+      <option name="METHOD_NAME" value="testIsSpeedUp" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XWingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OOP_3_Spaceshipproject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="XWingTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XWingTest.testToString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OOP_3_Spaceshipproject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="XWingTest" />
+      <option name="METHOD_NAME" value="testToString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XWingTest.testcatchedByBeam" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OOP_3_Spaceshipproject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="XWingTest" />
+      <option name="METHOD_NAME" value="testcatchedByBeam" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.All in OOP_3_Spaceshipproject" />
+        <item itemvalue="JUnit.TestRebelShip.testIsSpeedUp" />
+        <item itemvalue="JUnit.XWingTest.testToString" />
+        <item itemvalue="JUnit.XWingTest" />
+        <item itemvalue="JUnit.XWingTest.testcatchedByBeam" />
       </list>
     </recent_temporary>
   </component>
@@ -67,29 +141,47 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2688" y="250" width="548" height="577" key="#com.intellij.ide.util.MemberChooser" timestamp="1575573202892">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state x="149" y="125" width="1671" height="855" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1579183227220">
+      <screen x="49" y="27" width="1871" height="1053" />
     </state>
+    <state x="149" y="125" width="1671" height="855" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/49.27.1871.1053@49.27.1871.1053" timestamp="1579183227220" />
+    <state x="797" y="271" width="374" height="577" key="#com.intellij.ide.util.MemberChooser" timestamp="1579183968821">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state x="797" y="271" width="374" height="577" key="#com.intellij.ide.util.MemberChooser/49.27.1871.1053@49.27.1871.1053" timestamp="1579183968821" />
     <state x="2688" y="250" width="548" height="577" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1575573202892" />
+    <state x="689" y="222" width="580" height="661" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1579179914019">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state x="689" y="222" width="580" height="661" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/49.27.1871.1053@49.27.1871.1053" timestamp="1579179914019" />
     <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579178941075">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1579178941075" />
-    <state width="1874" height="287" key="GridCell.Tab.0.bottom" timestamp="1575575340063">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state width="1825" height="278" key="GridCell.Tab.0.bottom" timestamp="1579184000472">
+      <screen x="49" y="27" width="1871" height="1053" />
     </state>
+    <state width="1825" height="278" key="GridCell.Tab.0.bottom/49.27.1871.1053@49.27.1871.1053" timestamp="1579184000472" />
     <state width="1874" height="287" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1575575340063" />
-    <state width="1874" height="287" key="GridCell.Tab.0.center" timestamp="1575575340063">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state width="1825" height="278" key="GridCell.Tab.0.center" timestamp="1579184000472">
+      <screen x="49" y="27" width="1871" height="1053" />
     </state>
+    <state width="1825" height="278" key="GridCell.Tab.0.center/49.27.1871.1053@49.27.1871.1053" timestamp="1579184000472" />
     <state width="1874" height="287" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1575575340063" />
-    <state width="1874" height="287" key="GridCell.Tab.0.left" timestamp="1575575340063">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state width="1825" height="278" key="GridCell.Tab.0.left" timestamp="1579184000471">
+      <screen x="49" y="27" width="1871" height="1053" />
     </state>
+    <state width="1825" height="278" key="GridCell.Tab.0.left/49.27.1871.1053@49.27.1871.1053" timestamp="1579184000471" />
     <state width="1874" height="287" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1575575340063" />
-    <state width="1874" height="287" key="GridCell.Tab.0.right" timestamp="1575575340063">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state width="1825" height="278" key="GridCell.Tab.0.right" timestamp="1579184000472">
+      <screen x="49" y="27" width="1871" height="1053" />
     </state>
+    <state width="1825" height="278" key="GridCell.Tab.0.right/49.27.1871.1053@49.27.1871.1053" timestamp="1579184000472" />
     <state width="1874" height="287" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1575575340063" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/OOP_3_Spaceshipproject$MilleniumFalconTest.ic" NAME="MilleniumFalconTest Coverage Results" MODIFIED="1579182717317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/OOP_3_Spaceshipproject$XWingTest.ic" NAME="XWingTest Coverage Results" MODIFIED="1579183431666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/OOP_3_Spaceshipproject$All_in_OOP_3_Spaceshipproject.ic" NAME="All in OOP_3_Spaceshipproject Coverage Results" MODIFIED="1579184000452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
